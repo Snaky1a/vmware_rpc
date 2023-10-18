@@ -3,7 +3,7 @@ from pypresence import Presence
 from time import time, sleep
 import json, os
 
-if os.path.exists("./config/") == False:
+if os.path.exists("./config/") is False:
     os.mkdir("./config/")
 
 if __name__ == "__main__":

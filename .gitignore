@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 config/
 __pycache__/
+=======
+test.py
+settings.json
+__pycache__
+config/
+>>>>>>> e214df5e8d29b226200676d03b8ce31a0aca2a9f
